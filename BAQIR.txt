@@ -1,8 +1,0 @@
-
-TCCN0==>t2=given xtmlf=f t1=1/f
-	t2/t1
-
-
-
-TCCR0==>
-	001 ==> for normal modea
